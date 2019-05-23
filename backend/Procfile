@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT sky_scrapper_caper_3707.wsgi:application
